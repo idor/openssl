@@ -1,0 +1,8 @@
+export WORKPATH=/work/wifi/25E.19
+export PATH=/work/toolchains/arm-2009q1/bin:$WORKPATH/mydroid/bootable/bootloader/u-boot/tools:$PATH
+export CROSS_COMPILE=arm-none-linux-gnueabi-
+export ARCH=arm
+export ADBHOST=192.168.2.222
+export HOST_PLATFORM=zoom2
+export MYFS_PATH=/work/wifi/pokey/myfs2
+
