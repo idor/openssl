@@ -1,0 +1,5 @@
+. sourceme
+
+./Configure --openssldir=. os/compiler:gcc
+
+make -j8
